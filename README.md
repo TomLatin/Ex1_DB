@@ -7,6 +7,6 @@ I worked with a database called: Nortwind which is also in this repository.
 
 The following is a description of the tables:
 
-<img width="716" alt="Screenshot_3" src="https://user-images.githubusercontent.com/57855070/89105124-24891c80-d427-11ea-84a8-49850111e20b.png">
+![WhatsApp Image 2020-08-01 at 18 49 39](https://user-images.githubusercontent.com/57855070/89105205-cdd01280-d427-11ea-9007-3e212f9b52c4.jpeg)
 
 I invite you to download it to your work environment and try to solve the exercises of course you can compare with my answers :)
